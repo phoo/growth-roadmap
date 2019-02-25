@@ -22,7 +22,8 @@ The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和
    * DIV / CSS
    * SCSS / SASS 
    * 矢量图形 / 矢量图形动画（如SVG）
-   * 单页面应用
+   * 单页应用 / 多页应用
+   * API文档（如jsDoc、apiDoc）
  - 高级篇
    * ES6 / TypeScript 
    * CSS3
@@ -85,7 +86,20 @@ The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和
    * 页面静态内容生成
    * H1、H2、H3和strong使用
    * Title、Description优化
-   * 页面静态内容生成
+ - IDE
+   * VIM
+   * IDEA/Webstorm
+   * Visual Studio
+   * Eclipse
+ - 书籍
+   * JavaScript高级程序设计
+   * Javascript语言精粹
+   * JavaScript DOM 编程艺术
+   * 学习 JavaScript 数据结构与算法
+   * ES6标准入门
+   * 高性能 JavaScript
+   * HTTP权威指南
+   * Vue.js快跑：构建触手可及的高性能Web应用
    
 
 后台技能图谱
@@ -93,17 +107,16 @@ The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和
 
  - 入门
     * HTML / CSS
-   * 编程语言：Java / Python / PHP / Ruby等等
-   * Web框架，如Spring MVC、Flask、Laravel等等
+    * 编程语言：Java / Python / PHP / Ruby等等
+    * Web框架，如Spring MVC、Flask、Laravel等等
     * HTTP协议基础
     * CGI基础
  - 中级篇
-    * XML和JSON处理
+    * API报文结构，如iso8583、xml、webservice、json、分隔符
     * 数据结构与算法
     * 面向对象编程
-    * CMS
-    * API设计
-    * 网络通信协议，如TCP / Socket
+    * CMS（Concurrent Mark-Sweep）
+    * 网络通信协议，如TCP / Socket / UDP
  - 高级篇
     * 函数式编程
     * 领域驱动设计
@@ -120,7 +133,7 @@ The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和
     * 自动化部署
     * 应用包创建、管理、发布
     * 发布脚本编写
-    * Web容器，如Jboss
+    * Web容器，如Jboss、WebSphere、WebLogic、Ngnix
  - 缓存篇
     * 应用层缓存 
     * 平台缓存
@@ -128,8 +141,8 @@ The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和
     * 分布式缓存 
  - 数据持久化
     * SQL
-    * NoSQL
-    * ORM
+    * NoSQL，如键值Redis、列存储HBase、文档MongoDb
+    * ORM，如Hibernate、Mybatis
     * DBMS
     * 搜索引擎
  - 数据库
@@ -140,19 +153,19 @@ The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和
     * 备份恢复与容灾
  - 安全和加密
     * 认证与会话管理
-    * 加密解密
-    * 数字签名、数字证书
     * 加密算法
+    * 数字签名、数字证书
     * XSS/CSRF/SQL注入
  - 监控
     * 应用性能监控
     * 异常监控
-    * 日志
+    * 日志监控
     * 流量监控
+    * 客户端监控
  - 服务
     * RESTful
     * SOA
-    * RPC
+    * RPC（Remote Procedure Call）
     * MicroServices
  - 消息
    * JMS
